@@ -1,0 +1,4 @@
+C:\Users\James.Robinson6\source\repos\UK%20MEP%20Development\Aecom.Utils\Aecom.Utils\obj\Release\Aecom.Utils.csprojAssemblyReference.cache
+C:\Users\James.Robinson6\source\repos\UK%20MEP%20Development\Aecom.Utils\Aecom.Utils\obj\Release\Aecom.Utils.Properties.Resources.resources
+C:\Users\James.Robinson6\source\repos\UK%20MEP%20Development\Aecom.Utils\Aecom.Utils\obj\Release\Aecom.Utils.csproj.GenerateResource.cache
+C:\Users\James.Robinson6\source\repos\UK%20MEP%20Development\Aecom.Utils\Aecom.Utils\obj\Release\Aecom.Utils.csproj.CoreCompileInputs.cache
